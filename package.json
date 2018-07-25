@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Dario Fuzinato <fussinatto@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^0.12.0"
+  }
 }
